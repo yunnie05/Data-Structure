@@ -1,2 +1,3 @@
 # Data-Structure
-Data Structures and Java
+Programming exercises in Java (2025/2026)
+## Themes
