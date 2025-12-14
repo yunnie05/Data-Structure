@@ -19,6 +19,11 @@ Introduction to classes:
 
 [Week 3](https://github.com/yunnie05/Data-Structure/tree/main/Week%203)
 
+Structure programming:
+- *ED015.java:* simulates the World Search Puzzle game
+- *ED088.java:* simulates the game of life
+- *Game.java:* simulates the Tic-Tac-Toe game
+
 [Week 4](https://github.com/yunnie05/Data-Structure/tree/main/Week%204)
 
 [Week 5](https://github.com/yunnie05/Data-Structure/tree/main/Week%205)
