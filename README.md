@@ -31,12 +31,15 @@ Data Abstract Types:
 [Week 5](https://github.com/yunnie05/Data-Structure/tree/main/Week%205)
 
 Singly Linked Lists:
+
 [Week 6](https://github.com/yunnie05/Data-Structure/tree/main/Week%206)
 
 Lists, Stacks and queues:
+
 [Week 7](https://github.com/yunnie05/Data-Structure/tree/main/Week%207)
 
 Algorithm complexity:
+
 [Week 8](https://github.com/yunnie05/Data-Structure/tree/main/Week%208)
 
 Recursion:
@@ -48,6 +51,7 @@ Binary Trees:
 [Week 10](https://github.com/yunnie05/Data-Structure/tree/main/Week%2010)
 
 Binary Search Trees:
+
 [Week 11](https://github.com/yunnie05/Data-Structure/tree/main/Week%2011)
 
 Priority Queues:
