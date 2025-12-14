@@ -19,23 +19,35 @@ Introduction to classes:
 
 [Week 3](https://github.com/yunnie05/Data-Structure/tree/main/Week%203)
 
-Structure programming:
+Structure Programming:
 - *ED015.java:* simulates the World Search Puzzle game
 - *ED088.java:* simulates the game of life
 - *Game.java:* simulates the Tic-Tac-Toe game
 
 [Week 4](https://github.com/yunnie05/Data-Structure/tree/main/Week%204)
 
+Data Abstract Types:
+
 [Week 5](https://github.com/yunnie05/Data-Structure/tree/main/Week%205)
 
+Singly Linked Lists:
 [Week 6](https://github.com/yunnie05/Data-Structure/tree/main/Week%206)
 
+Lists, Stacks and queues:
 [Week 7](https://github.com/yunnie05/Data-Structure/tree/main/Week%207)
 
+Algorithm complexity:
 [Week 8](https://github.com/yunnie05/Data-Structure/tree/main/Week%208)
+
+Recursion:
 
 [Week 9](https://github.com/yunnie05/Data-Structure/tree/main/Week%209)
 
+Binary Trees:
+
 [Week 10](https://github.com/yunnie05/Data-Structure/tree/main/Week%2010)
 
+Binary Search Trees:
 [Week 11](https://github.com/yunnie05/Data-Structure/tree/main/Week%2011)
+
+Priority Queues:
