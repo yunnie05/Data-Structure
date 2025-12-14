@@ -39,7 +39,7 @@ added methods to class *SinglyLinkedList.java*:
 - public T remove(int pos): removes element in position pos and returns its value.
 - public SinglyLinkedList<T> copy(): creates and returns the copy of the list.
 - public void duplicate(): duplicates each element in the list.
-- public int count(T value): counts and returns the number of occurences of valua on the list.
+- public int count(T value): counts and returns the number of occurences of value on the list.
 - public void removeAll(T value): removes all occurences of value on the list.
 
 [Week 6](https://github.com/yunnie05/Data-Structure/tree/main/Week%206)
@@ -57,14 +57,20 @@ Lists, Stacks and queues:
 [Week 7](https://github.com/yunnie05/Data-Structure/tree/main/Week%207)
 
 Algorithm complexity:
+- *ED198.java:* returns the maximum sum of a contiguous sequence of numbers.
+- *ED199.java:* given a line of chests, an initial position, and a sequence of left/right movement instructions, compute how many treasures are collected when each chest is looted the first time it is visited.
 
 [Week 8](https://github.com/yunnie05/Data-Structure/tree/main/Week%208)
 
 Recursion:
+- *ED200.java:* given a grid representing microbial cultures, finds the size of the largest connected component in each case.
+- *ED201.java:* determines the maximum total duration of a subset of songs whose sum does not exceed the trip duration.
+- *ED202.java:* given a set of locations and the distances between them, determine the length of the shortest route that visits all locations and returns to the starting point.
 
 [Week 9](https://github.com/yunnie05/Data-Structure/tree/main/Week%209)
 
 Binary Trees:
+- 
 
 [Week 10](https://github.com/yunnie05/Data-Structure/tree/main/Week%2010)
 
