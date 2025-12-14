@@ -1,4 +1,11 @@
-
+/* input (example):
+  1 2
+  3
+  1 1
+  1 2
+  1 3
+  output: 2
+*/
 /*
  * Exercício da prática 2
  */
@@ -49,4 +56,5 @@ public class ED243 {
         }
         return true;
     }
+
 }
