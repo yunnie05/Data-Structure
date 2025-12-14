@@ -20,21 +20,39 @@ Introduction to classes:
 [Week 3](https://github.com/yunnie05/Data-Structure/tree/main/Week%203)
 
 Structure Programming:
-- *ED015.java:* simulates the World Search Puzzle game
-- *ED088.java:* simulates the game of life
-- *Game.java:* simulates the Tic-Tac-Toe game
+- *ED015.java:* simulates the World Search Puzzle game.
+- *ED088.java:* simulates the game of life.
+- *Game.java:* simulates the Tic-Tac-Toe game.
 
 [Week 4](https://github.com/yunnie05/Data-Structure/tree/main/Week%204)
 
 Data Abstract Types:
+- *ArrayListIntSet.java:* a class that represents sets of integer numbers using Linked lists.
+- *BigNumber.java:* a class that supports big numbers, operations: adding and multiplying two big numbers.
+- *BooleanArrayIntSet.java:* a class that represents sets of integer numbers using an array of booleans.
 
 [Week 5](https://github.com/yunnie05/Data-Structure/tree/main/Week%205)
 
 Singly Linked Lists:
+added methods to class *SinglyLinkedList.java*:
+- public T get(int pos): returns the value in position pos.
+- public T remove(int pos): removes element in position pos and returns its value.
+- public SinglyLinkedList<T> copy(): creates and returns the copy of the list.
+- public void duplicate(): duplicates each element in the list.
+- public int count(T value): counts and returns the number of occurences of valua on the list.
+- public void removeAll(T value): removes all occurences of value on the list.
 
 [Week 6](https://github.com/yunnie05/Data-Structure/tree/main/Week%206)
 
 Lists, Stacks and queues:
+- *ED005.java:* returns the result of an expression in iverted polac notation, if the expression is not well formed returns "Expressao incorreta".
+- *ED006.java:* simulates the "Pim-pam-pum" game.
+- *ED007.java:* checks if an expression is well formed.
+- *ED029.java:* simulates the process of landing and departure of planes.
+- *ED194.java:* inverts a stack.
+- *ED195.java:* checks if a string made of parenthesis is well formed.
+- *ED196.java:* receives a name followed by a letter (A,B or X). If A, the name is added to queue a, if B the name is added to queue B, if X it adds the name to queue with less elements (if a and b have the same size the name is discarted).
+- *ED197.java:* merges two queues into one sorted one.
 
 [Week 7](https://github.com/yunnie05/Data-Structure/tree/main/Week%207)
 
