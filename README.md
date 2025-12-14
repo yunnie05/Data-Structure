@@ -4,13 +4,17 @@ Programming exercises in Java (2025/2026)
 [Week 1](https://github.com/yunnie05/Data-Structure/tree/main/Week%201)
 
 Scanner class Introduction:
- - *ED243.java:*  indicates the number of different pizzas that Mario Can Order
- - *Estatistica.java:*  calculating the mean end the amplitude for a set of values
- - *Losango.java:*  printing a rhombus
- - *Palindromo.java:*  finding the lines that are palindromes
- - *Primos.java:*  indicating the prime numbers in [a,b].
+ - *ED243.java:* indicates the number of different pizzas that Mario can order.
+ - *Estatistica.java:* calculates the mean end the amplitude for a set of values.
+ - *Losango.java:* prints a rhombus.
+ - *Palindromo.java:* finds the lines that are palindromes.
+ - *Primos.java:* indicates the prime numbers in [a,b].
 
 [Week 2](https://github.com/yunnie05/Data-Structure/tree/main/Week%202)
+
+Introduction to classes:
+- *ED216.java:* indicates the length of the largest contiguous segment (horizontal or vertical) of '#' characters.
+- *Matrix.java:* a class representing matrix with the following methods: identity(returns the identity matrix of order n), transpose (returns the transpose of a matrix), sum(returns matrix that results from summing of two matrixes) and multiply(returns a matrix that results from multiplying two matrixes).
 
 [Week 3](https://github.com/yunnie05/Data-Structure/tree/main/Week%203)
 
