@@ -2,6 +2,7 @@
 Programming exercises in Java (2025/2026)
 ## Themes
 [Week 1](https://github.com/yunnie05/Data-Structure/tree/main/Week%201)
+
 Scanner class Introduction:
  - ED243.java: indicates the number of different pizzas that Mario Can Order
  - Estatistica.java: calculating the mean end the amplitude for a set of values
