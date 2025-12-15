@@ -70,12 +70,30 @@ Recursion:
 [Week 9](https://github.com/yunnie05/Data-Structure/tree/main/Week%209)
 
 Binary Trees:
-- 
+methods added to BTree:
+- *public int numberLeafs():* returns the number of leafs of the tree.
+- *public boolean strict():* checks if a tree is strictly binary.
+- *public T path(String s):* returns the value on the the path given by string s.
+- *public int nodesLevel(int k):* returns the number of nodes on a given level k.
+  
+- *ED211.java:* returns the number of even numbers on a tree.
+- *ED212.java:* returns the sum of the values on each level.
+- *ED213.java:* returns the maximum sums of a path on the tree.
 
 [Week 10](https://github.com/yunnie05/Data-Structure/tree/main/Week%2010)
 
 Binary Search Trees:
+methods added to BSTree class:
+- *public T minValue():* returns the minimun value on the tree.
+- *public T maxValue():* returna the maximum value on the tree.
+- *public boolean valid():* checks if a tree is a binary search tree.
+- *public int countBetween(T a, T b):* counts the number of values between a and b.
+- *ED164.java:* returns the number od different words.
+- *ED165.java:* Given a set of N numbers and P queries, each asking for a value X_i, determine for each query whether  X_i​ can be formed as the sum of two (possibly equal) numbers from the given set.
+- *ED172.java:* given a text, returns the number of occurences of each word.
 
 [Week 11](https://github.com/yunnie05/Data-Structure/tree/main/Week%2011)
 
 Priority Queues:
+- *ED215.java:* given a sequence of auction events (buy offers and sell actions), determine which buyer receives each item, assuming each sale is made to the highest current offer, which is then removed.
+- *ED300.java:* returns the number of nodes that have a grandparent multiple of k.
